@@ -1,2 +1,2 @@
 # sem3
-This repository contain my semster assignments and projects
+This repository contain my semester assignments and projects
